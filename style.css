@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#havaDurumuAlani {
+    margin-top: 20px;
+}
+input, button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
